@@ -1,0 +1,6 @@
+creat_key：可以批量生成非对称密钥对（已经不再需要了，私钥文件格式和要求的不同，生成的私钥用不了，可以手动用OPENSSL程序生成）
+envelope_test：信封加密
+file_digest_test：消息摘要
+file_en_de_test：对称加密
+sign_verify_test：加密认证
+ssl_client_test/ssl_server_test：ssl编程
